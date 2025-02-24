@@ -4,6 +4,8 @@ See [Flowlu](https://www.flowlu.com/)
 
 ## 100 - Integration of Flowlu with AcitivePieces
 
+See [README.md](./100/README.md)
+
 See [FLOWLU - Integration (popular CRM)](https://community.activepieces.com/t/flowlu-integration-popular-crm/512/28)
 
 ## 200 - Flowlu Quick Start
