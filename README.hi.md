@@ -5,9 +5,9 @@
 > स्लगलाइन
 
 -   [डीएनएस](./DNS.md)
--   [प्रलेखन](./DOCUMENTATION.md)
+-   [Documentation](./DOCUMENTATION.md)
 -   [शब्दकोष](./GLOSSARY.md)
--   [Hatch](./HATCH.md)
+-   [हैच](./HATCH.md)
 -   [मेजबान](./HOSTS.md)
 -   [इमेजिस](./IMAGES.md)
 -   [नोकदार](./NX.md)
@@ -20,7 +20,7 @@
 
 मूलपाठ
 
-के साथ उत्पन्न[Rytr](https://app.rytr.me)
+के साथ उत्पन्न[रिट्र](https://app.rytr.me)
 
 ## 100 - परिचय
 
@@ -34,6 +34,6 @@
 
 देखना[README.md](./300/README.md)
 
-## 400 - निष्कर्ष
+## 400 - Conclusion
 
 देखना[README.md](./400/README.md)
