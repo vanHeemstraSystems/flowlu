@@ -1,8 +1,8 @@
-اسم المستودع
+Flowlu
 
-# اسم المستودع
+# Flowlu
 
-> Slugline
+> Unified business platform for simple work management.
 
 -   [DNS](./DNS.md)
 -   [الوثائق](./DOCUMENTATION.md)
@@ -18,7 +18,7 @@
 
 **ملخص تنفيذي**
 
-نص
+من مشاريع العميل إلى العمليات الداخلية ، قم بإدارة كل شيء في برنامج واحد ميسور التكلفة الحائز على جوائز.
 
 ولدت مع[ريتر](https://app.rytr.me)
 
