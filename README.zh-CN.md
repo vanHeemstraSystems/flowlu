@@ -9,7 +9,7 @@ repository-name
 -   [词汇表](./GLOSSARY.md)
 -   [孵化](./HATCH.md)
 -   [主持人](./HOSTS.md)
--   [图像](./IMAGES.md)
+-   [Images](./IMAGES.md)
 -   [nx](./NX.md)
 -   [Subman](./PODMAN.md)
 -   [参考](./REFERENCES.md)
@@ -30,7 +30,7 @@ repository-name
 
 看[README.md](./200/README.md)
 
-## 300 - Building Our Application
+## 300-构建我们的应用程序
 
 看[README.md](./300/README.md)
 
