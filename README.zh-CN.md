@@ -16,9 +16,9 @@ Flowlu
 -   [要求](./REQUIREMENTS.md)
 -   [遥测](./TELEMETRY.md)
 
-**Executive Summary**
+**执行摘要**
 
-From client projects to internal processes, manage it all in one affordable, award-winning software.
+从客户端项目到内部流程，请全部管理一个负担得起的屡获殊荣的软件。
 
 生成[ritr](https://app.rytr.me)
 
@@ -36,4 +36,4 @@ From client projects to internal processes, manage it all in one affordable, awa
 
 ## 400-结论
 
-看[README.md](./400/README.md)
+See [README.md](./400/README.md)
