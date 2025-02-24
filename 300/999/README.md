@@ -2,7 +2,7 @@
 
 See [Flowlu](https://www.flowlu.com/)
 
-## 100 - Integration of Flowlu with AcitivePieces
+## 100 - Integration of Flowlu with ActivePieces
 
 See [README.md](./100/README.md)
 
