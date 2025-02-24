@@ -2,7 +2,7 @@ Flowlu
 
 # Flowlu
 
-> 简单工作管理的统一业务平台。
+> Unified business platform for simple work management.
 
 -   [DNS](./DNS.md)
 -   [文档](./DOCUMENTATION.md)
@@ -22,7 +22,7 @@ Flowlu
 
 生成[ritr](https://app.rytr.me)
 
-## 100-简介
+## 100 - Introduction
 
 看[README.md](./100/README.md)
 
