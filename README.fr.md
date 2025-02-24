@@ -20,13 +20,13 @@ flowlu
 
 Des projets clients aux processus internes, gérez tout cela dans un logiciel abordable et primé.
 
-Généré avec[Ritr](https://app.rytr.me)
+Généré avec[Rytr](https://app.rytr.me)
 
 ## 100 - Introduction
 
 Voir[README.md](./100/README.md)
 
-## 200 - Requirements
+## 200 - exigences
 
 Voir[README.md](./200/README.md)
 
