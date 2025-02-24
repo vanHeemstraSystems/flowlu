@@ -1,6 +1,6 @@
 fles
 
-# FlowLu
+# Fles
 
 > Unified Business Platform voor eenvoudig werkbeheer.
 
@@ -12,15 +12,15 @@ fles
 -   [Beelden](./IMAGES.md)
 -   [Nx](./NX.md)
 -   [Subman](./PODMAN.md)
--   [References](./REFERENCES.md)
+-   [Referenties](./REFERENCES.md)
 -   [Vereisten](./REQUIREMENTS.md)
--   [Telemetry](./TELEMETRY.md)
+-   [Telemetrie](./TELEMETRY.md)
 
 **Uitvoerende samenvatting**
 
 Van clientprojecten tot interne processen, beheert het allemaal in één betaalbare, bekroonde software.
 
-Gegenereerd met[Rytr](https://app.rytr.me)
+Gegenereerd met[Ritr](https://app.rytr.me)
 
 ## 100 - Inleiding
 
