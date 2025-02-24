@@ -1,8 +1,8 @@
-repositorio
+flujo
 
-# Nombre de repositorio
+# Flujo
 
-> Línea de babosa
+> Plataforma comercial unificada para una simple gestión laboral.
 
 -   [DNS](./DNS.md)
 -   [Documentación](./DOCUMENTATION.md)
@@ -18,7 +18,7 @@ repositorio
 
 **Resumen ejecutivo**
 
-Texto
+Desde proyectos de clientes hasta procesos internos, administrarlo todo en un software asequible y galardonado.
 
 Generado con[Ritro](https://app.rytr.me)
 
@@ -26,7 +26,7 @@ Generado con[Ritro](https://app.rytr.me)
 
 Ver[README.md](./100/README.md)
 
-## 200 - Requirements
+## 200 - Requisitos
 
 Ver[README.md](./200/README.md)
 
