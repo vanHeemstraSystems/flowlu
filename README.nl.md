@@ -18,7 +18,7 @@ fles
 
 **Uitvoerende samenvatting**
 
-From client projects to internal processes, manage it all in one affordable, award-winning software.
+Van clientprojecten tot interne processen, beheert het allemaal in één betaalbare, bekroonde software.
 
 Gegenereerd met[Ritr](https://app.rytr.me)
 
