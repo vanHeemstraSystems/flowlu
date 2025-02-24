@@ -1,4 +1,4 @@
-Flowlu
+flowlu
 
 # Flowlu
 
@@ -18,7 +18,7 @@ Flowlu
 
 **Zusammenfassung**
 
-Verwalten Sie von Kundenprojekten bis hin zu internen Prozessen alles in einer erschwinglichen, preisgekrönten Software.
+From client projects to internal processes, manage it all in one affordable, award-winning software.
 
 Erzeugt mit[Ritr](https://app.rytr.me)
 
