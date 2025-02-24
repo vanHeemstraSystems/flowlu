@@ -2,7 +2,7 @@ Flowlu
 
 # Flowlu
 
-> 簡單工作管理的統一業務平台。
+> Unified business platform for simple work management.
 
 -   [DNS](./DNS.md)
 -   [文件](./DOCUMENTATION.md)
