@@ -6,7 +6,7 @@ Flowlu
 
 -   [DNS](./DNS.md)
 -   [Dokumentation](./DOCUMENTATION.md)
--   [Glossar](./GLOSSARY.md)
+-   [Glossary](./GLOSSARY.md)
 -   [Luke](./HATCH.md)
 -   [Gastgeber](./HOSTS.md)
 -   [Bilder](./IMAGES.md)
