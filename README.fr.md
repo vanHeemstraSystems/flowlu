@@ -1,6 +1,6 @@
 flowlu
 
-# FlowLu
+# Flowlu
 
 > Plateforme commerciale unifiée pour la gestion du travail simple.
 
