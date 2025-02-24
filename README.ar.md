@@ -1,8 +1,8 @@
 Flowlu
 
-# Flowlu
+# FlowLu
 
-> Unified business platform for simple work management.
+> منصة الأعمال الموحدة لإدارة العمل البسيطة.
 
 -   [DNS](./DNS.md)
 -   [الوثائق](./DOCUMENTATION.md)
@@ -14,13 +14,13 @@ Flowlu
 -   [رجل فرعي](./PODMAN.md)
 -   [مراجع](./REFERENCES.md)
 -   [متطلبات](./REQUIREMENTS.md)
--   [القياس عن بعد](./TELEMETRY.md)
+-   [Telemetry](./TELEMETRY.md)
 
 **ملخص تنفيذي**
 
-From client projects to internal processes, manage it all in one affordable, award-winning software.
+من مشاريع العميل إلى العمليات الداخلية ، قم بإدارة كل شيء في برنامج واحد ميسور التكلفة الحائز على جوائز.
 
-ولدت مع[ريتر](https://app.rytr.me)
+Generated with [ريتر](https://app.rytr.me)
 
 ## 100 - مقدمة
 
