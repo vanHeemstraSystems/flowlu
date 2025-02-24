@@ -18,7 +18,7 @@ Flowlu
 
 **ملخص تنفيذي**
 
-من مشاريع العميل إلى العمليات الداخلية ، قم بإدارة كل شيء في برنامج واحد ميسور التكلفة الحائز على جوائز.
+From client projects to internal processes, manage it all in one affordable, award-winning software.
 
 ولدت مع[ريتر](https://app.rytr.me)
 
