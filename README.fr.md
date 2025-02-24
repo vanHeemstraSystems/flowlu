@@ -1,6 +1,6 @@
 flowlu
 
-# Flowlu
+# FlowLu
 
 > Plateforme commerciale unifiée pour la gestion du travail simple.
 
@@ -20,7 +20,7 @@ flowlu
 
 Des projets clients aux processus internes, gérez tout cela dans un logiciel abordable et primé.
 
-Généré avec[Rytr](https://app.rytr.me)
+Généré avec[Ritr](https://app.rytr.me)
 
 ## 100 - Introduction
 
