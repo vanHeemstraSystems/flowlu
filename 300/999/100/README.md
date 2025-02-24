@@ -1,3 +1,3 @@
-# 100 - Integrating Flowlu with ActivePieces
+# 100 - Integration of Flowlu with AcitivePieces
 
 
