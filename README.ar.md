@@ -1,6 +1,6 @@
 Flowlu
 
-# FlowLu
+# Flowlu
 
 > منصة الأعمال الموحدة لإدارة العمل البسيطة.
 
@@ -14,13 +14,13 @@ Flowlu
 -   [رجل فرعي](./PODMAN.md)
 -   [مراجع](./REFERENCES.md)
 -   [متطلبات](./REQUIREMENTS.md)
--   [Telemetry](./TELEMETRY.md)
+-   [القياس عن بعد](./TELEMETRY.md)
 
 **ملخص تنفيذي**
 
 من مشاريع العميل إلى العمليات الداخلية ، قم بإدارة كل شيء في برنامج واحد ميسور التكلفة الحائز على جوائز.
 
-Generated with [ريتر](https://app.rytr.me)
+ولدت مع[ريتر](https://app.rytr.me)
 
 ## 100 - مقدمة
 
