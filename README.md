@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+flowlu
+# FlowLu
 
-> Slugline
+> Unified business platform for simple work management.
 
 - [DNS](./DNS.md)
 - [Documentation](./DOCUMENTATION.md)
@@ -17,7 +17,7 @@ repository-name
 
 **Executive Summary**
 
-Text
+From client projects to internal processes, manage it all in one affordable, award-winning software.
 
 Generated with [Rytr](https://app.rytr.me)
 
