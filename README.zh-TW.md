@@ -1,16 +1,16 @@
-repository-name
+Flowlu
 
-# 存儲庫名稱
+# Flowlu
 
-> 板條
+> 簡單工作管理的統一業務平台。
 
 -   [DNS](./DNS.md)
 -   [文件](./DOCUMENTATION.md)
 -   [詞彙表](./GLOSSARY.md)
--   [孵化](./HATCH.md)
+-   [Hatch](./HATCH.md)
 -   [主持人](./HOSTS.md)
 -   [圖像](./IMAGES.md)
--   [Nx](./NX.md)
+-   [nx](./NX.md)
 -   [Subman](./PODMAN.md)
 -   [參考](./REFERENCES.md)
 -   [要求](./REQUIREMENTS.md)
@@ -18,7 +18,7 @@ repository-name
 
 **執行摘要**
 
-文字
+從客戶端項目到內部流程，請全部管理一個負擔得起的屢獲殊榮的軟件。
 
 生成[ritr](https://app.rytr.me)
 
@@ -34,6 +34,6 @@ repository-name
 
 看[README.md](./300/README.md)
 
-## 400 - Conclusion
+## 400-結論
 
-看[README.md](./400/README.md)
+See [README.md](./400/README.md)
