@@ -1,8 +1,8 @@
-Repository-Namen
+Flowlu
 
-# Repository -Name
+# Flowlu
 
-> Slugline
+> Einheitliche Geschäftsplattform für einfaches Arbeitsmanagement.
 
 -   [DNS](./DNS.md)
 -   [Dokumentation](./DOCUMENTATION.md)
@@ -18,7 +18,7 @@ Repository-Namen
 
 **Zusammenfassung**
 
-Text
+Verwalten Sie von Kundenprojekten bis hin zu internen Prozessen alles in einer erschwinglichen, preisgekrönten Software.
 
 Erzeugt mit[Ritr](https://app.rytr.me)
 
