@@ -2,7 +2,7 @@
 
 # फ्लोइलू
 
-> Unified business platform for simple work management.
+> सरल कार्य प्रबंधन के लिए एकीकृत व्यापार मंच।
 
 -   [डीएनएस](./DNS.md)
 -   [प्रलेखन](./DOCUMENTATION.md)
