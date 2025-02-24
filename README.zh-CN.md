@@ -1,8 +1,8 @@
-repository-name
+flowlu
 
-# 存储库名称
+# Flowlu
 
-> 板条
+> 简单工作管理的统一业务平台。
 
 -   [DNS](./DNS.md)
 -   [文档](./DOCUMENTATION.md)
@@ -18,7 +18,7 @@ repository-name
 
 **执行摘要**
 
-文本
+从客户端项目到内部流程，请全部管理一个负担得起的屡获殊荣的软件。
 
 生成[ritr](https://app.rytr.me)
 
