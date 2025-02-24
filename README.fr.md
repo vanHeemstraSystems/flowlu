@@ -1,8 +1,8 @@
-nom de référentiel
+flowlu
 
-# Nom de référentiel
+# Flowlu
 
-> Lisc
+> Plateforme commerciale unifiée pour la gestion du travail simple.
 
 -   [DNS](./DNS.md)
 -   [Documentation](./DOCUMENTATION.md)
@@ -18,9 +18,9 @@ nom de référentiel
 
 **Résumé exécutif**
 
-Texte
+Des projets clients aux processus internes, gérez tout cela dans un logiciel abordable et primé.
 
-Généré avec[Ritr](https://app.rytr.me)
+Généré avec[Rytr](https://app.rytr.me)
 
 ## 100 - Introduction
 
