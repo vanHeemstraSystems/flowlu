@@ -13,7 +13,7 @@ Flowlu
 -   [NX](./NX.md)
 -   [رجل فرعي](./PODMAN.md)
 -   [مراجع](./REFERENCES.md)
--   [متطلبات](./REQUIREMENTS.md)
+-   [Requirements](./REQUIREMENTS.md)
 -   [القياس عن بعد](./TELEMETRY.md)
 
 **ملخص تنفيذي**
@@ -32,8 +32,8 @@ Flowlu
 
 ## 300 - بناء تطبيقنا
 
-يرى[README.md](./300/README.md)
+See [README.md](./300/README.md)
 
-## 400 - الخلاصة
+## 400 - Conclusion
 
 يرى[README.md](./400/README.md)
