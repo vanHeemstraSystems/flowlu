@@ -20,7 +20,7 @@ Flowlu
 
 從客戶端項目到內部流程，請全部管理一個負擔得起的屢獲殊榮的軟件。
 
-生成[ritr](https://app.rytr.me)
+Generated with [Rytr](https://app.rytr.me)
 
 ## 100-簡介
 
