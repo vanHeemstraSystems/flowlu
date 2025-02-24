@@ -8,6 +8,4 @@ See [FLOWLU - Integration (popular CRM)](https://community.activepieces.com/t/fl
 
 ## 200 - Flowlu Quick Start
 
-See [QuickStart](https://wvanheemstra.flowlu.com/)
-
-See [QuickStart Video](https://youtu.be/VJOEvf0hFvA?si=k5etSP-3H6oXfTGl)
+See [README.md](./200/README.md)
