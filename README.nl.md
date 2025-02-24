@@ -1,6 +1,6 @@
 fles
 
-# Fles
+# FlowLu
 
 > Unified Business Platform voor eenvoudig werkbeheer.
 
@@ -12,7 +12,7 @@ fles
 -   [Beelden](./IMAGES.md)
 -   [Nx](./NX.md)
 -   [Subman](./PODMAN.md)
--   [References](./REFERENCES.md)
+-   [Referenties](./REFERENCES.md)
 -   [Vereisten](./REQUIREMENTS.md)
 -   [Telemetrie](./TELEMETRY.md)
 
