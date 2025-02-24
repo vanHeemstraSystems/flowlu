@@ -7,14 +7,14 @@ Flowlu
 -   [DNS](./DNS.md)
 -   [文件](./DOCUMENTATION.md)
 -   [詞彙表](./GLOSSARY.md)
--   [孵化](./HATCH.md)
+-   [Hatch](./HATCH.md)
 -   [主持人](./HOSTS.md)
--   [圖像](./IMAGES.md)
+-   [Images](./IMAGES.md)
 -   [nx](./NX.md)
 -   [Subman](./PODMAN.md)
 -   [參考](./REFERENCES.md)
 -   [要求](./REQUIREMENTS.md)
--   [遙測](./TELEMETRY.md)
+-   [Telemetry](./TELEMETRY.md)
 
 **執行摘要**
 
