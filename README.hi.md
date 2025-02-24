@@ -11,7 +11,7 @@
 -   [मेजबान](./HOSTS.md)
 -   [इमेजिस](./IMAGES.md)
 -   [नोकदार](./NX.md)
--   [सबमैन](./PODMAN.md)
+-   [Podman](./PODMAN.md)
 -   [संदर्भ](./REFERENCES.md)
 -   [आवश्यकताएं](./REQUIREMENTS.md)
 -   [टेलीमेटरी](./TELEMETRY.md)
@@ -20,11 +20,11 @@
 
 क्लाइंट प्रोजेक्ट्स से लेकर आंतरिक प्रक्रियाओं तक, इसे एक सस्ती, पुरस्कार विजेता सॉफ्टवेयर में प्रबंधित करें।
 
-Generated with [रिट्र](https://app.rytr.me)
+के साथ उत्पन्न[रिट्र](https://app.rytr.me)
 
 ## 100 - परिचय
 
-देखना[README.md](./100/README.md)
+See [README.md](./100/README.md)
 
 ## 200 - आवश्यकताएँ
 
