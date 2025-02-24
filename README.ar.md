@@ -1,4 +1,4 @@
-flowlu
+Flowlu
 
 # Flowlu
 
@@ -18,13 +18,13 @@ flowlu
 
 **ملخص تنفيذي**
 
-From client projects to internal processes, manage it all in one affordable, award-winning software.
+من مشاريع العميل إلى العمليات الداخلية ، قم بإدارة كل شيء في برنامج واحد ميسور التكلفة الحائز على جوائز.
 
-ولدت مع[Rytr](https://app.rytr.me)
+ولدت مع[ريتر](https://app.rytr.me)
 
 ## 100 - مقدمة
 
-See [README.md](./100/README.md)
+يرى[README.md](./100/README.md)
 
 ## 200 - المتطلبات
 
@@ -34,6 +34,6 @@ See [README.md](./100/README.md)
 
 يرى[README.md](./300/README.md)
 
-## 400 - Conclusion
+## 400 - الخلاصة
 
-See [README.md](./400/README.md)
+يرى[README.md](./400/README.md)
