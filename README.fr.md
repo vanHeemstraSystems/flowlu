@@ -12,7 +12,7 @@ nom de référentiel
 -   [Images](./IMAGES.md)
 -   [Nx](./NX.md)
 -   [Sous-homme](./PODMAN.md)
--   [Références](./REFERENCES.md)
+-   [References](./REFERENCES.md)
 -   [Exigences](./REQUIREMENTS.md)
 -   [Télémétrie](./TELEMETRY.md)
 
