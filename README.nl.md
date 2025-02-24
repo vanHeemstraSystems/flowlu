@@ -1,8 +1,8 @@
-repository-naam
+fles
 
-# Repository -naam
+# Fles
 
-> Sluglijn
+> Unified Business Platform voor eenvoudig werkbeheer.
 
 -   [DNS](./DNS.md)
 -   [Documentatie](./DOCUMENTATION.md)
@@ -18,7 +18,7 @@ repository-naam
 
 **Uitvoerende samenvatting**
 
-Tekst
+From client projects to internal processes, manage it all in one affordable, award-winning software.
 
 Gegenereerd met[Ritr](https://app.rytr.me)
 
