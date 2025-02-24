@@ -1,10 +1,10 @@
-flowlu
+फ्लोइलू
 
 # फ्लोइलू
 
 > सरल कार्य प्रबंधन के लिए एकीकृत व्यापार मंच।
 
--   [DNS](./DNS.md)
+-   [डीएनएस](./DNS.md)
 -   [प्रलेखन](./DOCUMENTATION.md)
 -   [शब्दकोष](./GLOSSARY.md)
 -   [हैच](./HATCH.md)
@@ -12,13 +12,13 @@ flowlu
 -   [इमेजिस](./IMAGES.md)
 -   [नोकदार](./NX.md)
 -   [सबमैन](./PODMAN.md)
--   [References](./REFERENCES.md)
--   [Requirements](./REQUIREMENTS.md)
+-   [संदर्भ](./REFERENCES.md)
+-   [आवश्यकताएं](./REQUIREMENTS.md)
 -   [टेलीमेटरी](./TELEMETRY.md)
 
-**Executive Summary**
+**कार्यकारी सारांश**
 
-From client projects to internal processes, manage it all in one affordable, award-winning software.
+क्लाइंट प्रोजेक्ट्स से लेकर आंतरिक प्रक्रियाओं तक, इसे एक सस्ती, पुरस्कार विजेता सॉफ्टवेयर में प्रबंधित करें।
 
 के साथ उत्पन्न[रिट्र](https://app.rytr.me)
 
